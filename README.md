@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **BrightScript | React & Redux**
 
-- 💬 Ask me about **Ask me about anything, I am happy to help!**
+- 💬 Ask me about **anything, I am happy to help!**
 
 - 📫 How to reach me **pri.apocalypse@gmail.com**
 
