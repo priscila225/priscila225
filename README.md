@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **OTT/Mobile projects [Android/Roku/AndroidTV/FireTV]**
 
-- 🔭 I’m currently working more with Kotlin
+- ❤️ I’m currently working more with **Kotlin**
 
 - 🌱 I’m currently learning **BrightScript | React & Redux**
 
