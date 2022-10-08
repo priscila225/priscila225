@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://twitter.com/priscil4_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priscil4_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/priscila-pereira-apocalypse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priscila-pereira-apocalypse" height="30" width="40" /></a>
-<a href="https://instagram.com/pri_apocalypse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pri_apocalypse" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pri_apocalypse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pri_apocalypse" height="30" width="40" /></a>
 </p>
 
