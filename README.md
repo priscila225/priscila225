@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priscila225" alt="priscila225" /></a> </p>
 
-- 🔭 I’m currently working on **OTT/Mobile projects [Android/Roku/AndroidTV/FireTV]**
+- 🔭 I’m currently working on **OTT/Mobile projects [AndroidTV/FireTV/Roku]**
 
 - ❤️ I’m currently working more with **Kotlin**
 
