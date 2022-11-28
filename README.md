@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋 I'm Priscila Apocalypse</h1>
-<h3 align="left">A passionate full-stack-mobile-everything developer!</h3>
 
 - 🔭 I’m currently working on **OTT/Mobile projects [AndroidTV/FireTV/Roku]**
 
