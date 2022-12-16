@@ -4,9 +4,7 @@
 
 - ❤️ I’m currently working more with **Kotlin**
 
-- 🌱 I’m currently learning **BrightScript | React & Redux**
-
-- 💬 Ask me about **anything, I am happy to help!**
+- 🌱 I’m currently learning **BrightScript | React**
 
 - 📫 How to reach me **pri.apocalypse@gmail.com**
 
