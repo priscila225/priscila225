@@ -2,9 +2,7 @@
 
 - 🔭 I’m currently working on **OTT/Mobile projects [AndroidTV/FireTV/Roku]**
 
-- ❤️ I’m currently working more with **Kotlin**
-
-- 🌱 I’m currently learning **BrightScript**
+- ❤️ I’m currently working more with **Kotlin** and **BrightScript**
 
 - 📫 How to reach me **pri.apocalypse@gmail.com**
 
