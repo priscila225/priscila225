@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Priscila Apocalypse</h1>
+<h1 align="center">Hi 👋 I'm Priscila Pereira</h1>
 
 - 🔭 I’m currently working on **OTT/Mobile projects [AndroidTV/FireTV/Roku]**
 
