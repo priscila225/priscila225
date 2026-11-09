@@ -29,10 +29,6 @@ Full-stack engineer. I build streaming apps for Android, Android TV, Fire TV and
 - AI-assisted code review, testing, and documentation
 - Tool integrations and MCP servers that connect models to day-to-day engineering work
 
-## Reach me
-
-[pri.apocalypse@gmail.com](mailto:pri.apocalypse@gmail.com)
-
 <br />
 
 <p>
