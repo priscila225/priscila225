@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Priscila Apocalypse&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 4, Total Commits  : 5561, Total PRs: 1772, Total Issues: 11, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 4, Total Commits  : 5595, Total PRs: 1775, Total Issues: 11, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 100.4409650424136;
+        stroke-dashoffset: 100.4202989806481;
       }
     }
   
